@@ -7,7 +7,7 @@ export const debug = false;
 
 // Base path variables
 
-export const base_path = "https://efactory-nimble.salzburgresearch.at";
+export const base_path = "https://nimble.kolayam.co.uk";
 export const ub_base = "https://efactory-nimble.salzburgresearch.at/ub-search";
 export const idpURL = "https://efactory-nimble.salzburgresearch.at:8080/auth/realms/master";
 export const collab_path = "http://nimble.eu-de.containers.appdomain.cloud/collaborations";
